@@ -44,21 +44,6 @@ form input:focus{
     outline: 1px solid var(--primary-color);
 }
 
-form button{
-    border: none;
-    background-color: var(--primary-color);
-    color: white;
-    font-size: 18px;
-    font-weight: 700;
-    height: 50px;
-    cursor: pointer;
-    margin-top: 30px;
-}
-
-form button:hover{
-    background-color: var(--primary-color-darker);
-}
-
 .relogio{
     font-size: 60px;
     color: black;
@@ -67,3 +52,4 @@ form button:hover{
 .pause{
     color: red;
 }
+
