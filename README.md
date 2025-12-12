@@ -9,8 +9,6 @@ Ele permite:
 
 É um ótimo exercício para aprender lógica de programação, eventos e manipulação do DOM.
 
----
-
 ## 🚀 Funcionalidades
 
 - Contagem progressiva (hh:mm:ss)
@@ -19,4 +17,7 @@ Ele permite:
 - Interface simples e responsiva
 - Código fácil de entender e modificar
 
----
+## 👤 Sobre mim
+
+Sou Pedro Aragão, estudante e desenvolvedor front-end em crescimento.
+Busco oportunidades para aplicar minhas habilidades e evoluir na área de desenvolvimento web.
